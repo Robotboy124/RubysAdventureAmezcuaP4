@@ -125,6 +125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5a1704065f765742aab96d13a98d149, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  collectedClip: {fileID: 8300000, guid: af5f8b64e3f58f24c87ff8f789b04f6c, type: 3}
   healthShine: {fileID: 5750133957795538149, guid: 46bd597d8a433c44a836b1cc959ad400, type: 3}
 --- !u!1001 &2300623586215825804
 PrefabInstance:
