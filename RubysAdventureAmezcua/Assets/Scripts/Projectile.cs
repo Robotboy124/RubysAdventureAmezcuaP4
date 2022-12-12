@@ -32,8 +32,6 @@ public class Projectile : MonoBehaviour
             e.Fix();
         }
 
-        //we also add a debug log to know what the projectile touched
-        Debug.Log("Projectile Collision with " + other.gameObject);
         Destroy(gameObject);
     }
 }
